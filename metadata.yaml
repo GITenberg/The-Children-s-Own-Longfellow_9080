@@ -1,0 +1,27 @@
+_repo: The-Children-s-Own-Longfellow_9080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+description: Collects eight of Henry Wadsworth Longfellow's poems written for children,
+  including "Evangeline," "The Song of Hiawatha," and "Paul Rever's Ride."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, American'
+- !lcc 'PZ'
+- GITenberg
+title: The Children's Own Longfellow
+url: http://www.gutenberg.org/ebooks/9080
